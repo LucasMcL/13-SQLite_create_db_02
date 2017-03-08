@@ -1,0 +1,39 @@
+{
+	"employees": [{
+		"id": 0,
+		"firstName": "Lucas",
+		"lastName": "McLaughlin",
+		"jobTitle": "Mayor",
+		"address": "Some place"
+	}, {
+		"id": 1,
+		"firstName": "John",
+		"lastName": "Smith",
+		"jobTitle": "Secretary",
+		"address": "An address"
+	}, {
+		"id": 2,
+		"firstName": "John",
+		"lastName": "McLaughlin",
+		"jobTitle": "Janitor",
+		"address": "An address somewhere"
+	}, {
+		"id": 3,
+		"firstName": "Mark",
+		"lastName": "Ellis",
+		"jobTitle": "Window Washer",
+		"address": "Places"
+	}, {
+		"id": 4,
+		"firstName": "Mark",
+		"lastName": "Ellis",
+		"jobTitle": "Executive VP",
+		"address": "Wisconson"
+	}, {
+		"id": 5,
+		"firstName": "Gerard",
+		"lastName": "Ellis",
+		"jobTitle": "Translator",
+		"address": "Basement"
+	}]
+}
