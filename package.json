@@ -1,0 +1,23 @@
+{
+  "name": "13-SQLite_create_db_02",
+  "version": "1.0.0",
+  "description": "In this exercise you will create a SQLite database, create tables, insert records to the table, and query the database. We will be using the npm module [sqlite3](https://www.npmjs.com/package/sqlite3).",
+  "main": "sqlite3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasMcL/13-SQLite_create_db_02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasMcL/13-SQLite_create_db_02/issues"
+  },
+  "homepage": "https://github.com/LucasMcL/13-SQLite_create_db_02#readme",
+  "dependencies": {
+    "sqlite3": "^3.1.8"
+  }
+}
